@@ -3,7 +3,7 @@
 ## 1. Identificação
 
 - **Aluno:** Hélio Junior Vieira Caires
-- **Disciplina:** _(preencher com o nome da disciplina)_
+- **Disciplina:** Algoritmos e Pensamento Computacional
 - **Professora:** Profa. Karla Sartin
 - **Título do projeto:** Desafio – Monitoramento de Temperatura em C
 

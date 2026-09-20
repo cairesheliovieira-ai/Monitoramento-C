@@ -3,7 +3,7 @@
 ## 1. Identificação
 
 - **Aluno:** Hélio Junior Vieira Caires
-- **Disciplina:** _(preencher com o nome da disciplina)_
+- **Disciplina:** Algoritmos e Pensamento Computacional
 - **Professora:** Profa. Karla Sartin
 - **Título do projeto:** Desafio – Monitoramento de Temperatura em C
 
@@ -133,9 +133,9 @@ Acima do limite: 3 (75.0%)
 
 **Por que você escolheu while, do...while ou uma combinação das duas estruturas? Em qual parte do algoritmo a diferença entre testar a condição antes ou depois da execução foi importante para sua solução?**
 
-Usei uma **combinação das duas**, porque cada parte do programa pedia um tipo de teste diferente.
+Usei uma combinação das duas, porque cada parte do programa pedia um tipo de teste diferente.
 
-Para ler o **limite**, usei `do...while`. O programa precisa pedir o valor pelo menos uma vez e só depois conferir se ele é válido. Como o `do...while` testa a condição no final, o bloco sempre roda uma vez, que é o que eu queria. Com `while` eu teria que inventar um valor inicial só para conseguir entrar no laço.
+Para ler o limite, usei `do...while`. O programa precisa pedir o valor pelo menos uma vez e só depois conferir se ele é válido. Como o `do...while` testa a condição no final, o bloco sempre roda uma vez, que é o que eu queria. Com `while` eu teria que inventar um valor inicial só para conseguir entrar no laço.
 
 Para o **monitoramento**, usei `while (seguidas < 3)`, porque a condição é verificada antes de cada leitura. Assim, quando o programa detecta 3 temperaturas consecutivas acima do limite, ele para na hora, sem pedir uma leitura a mais.
 

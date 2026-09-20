@@ -137,6 +137,6 @@ Usei uma combinação das duas, porque cada parte do programa pedia um tipo de t
 
 Para ler o limite, usei `do...while`. O programa precisa pedir o valor pelo menos uma vez e só depois conferir se ele é válido. Como o `do...while` testa a condição no final, o bloco sempre roda uma vez, que é o que eu queria. Com `while` eu teria que inventar um valor inicial só para conseguir entrar no laço.
 
-Para o **monitoramento**, usei `while (seguidas < 3)`, porque a condição é verificada antes de cada leitura. Assim, quando o programa detecta 3 temperaturas consecutivas acima do limite, ele para na hora, sem pedir uma leitura a mais.
+Para o monitoramento, usei `while (seguidas < 3)`, porque a condição é verificada antes de cada leitura. Assim, quando o programa detecta 3 temperaturas consecutivas acima do limite, ele para na hora, sem pedir uma leitura a mais.
 
-A diferença entre testar antes ou depois foi mais importante na **leitura do limite**, onde a primeira execução é obrigatória, e no **encerramento do monitoramento**, onde não pode haver leitura extra depois que o critério de parada foi atingido.
+A diferença entre testar antes ou depois foi mais importante na leitura do limite, onde a primeira execução é obrigatória, e no encerramento do monitoramento, onde não pode haver leitura extra depois que o critério de parada foi atingido.

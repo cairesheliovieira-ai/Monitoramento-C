@@ -1,0 +1,19 @@
+Limite de temperatura (-50 a 150): 40
+Temperatura (999 encerra): 41
+Acima do limite! (1 seguida(s))
+Temperatura (999 encerra): 42
+Acima do limite! (2 seguida(s))
+Temperatura (999 encerra): 30
+Temperatura (999 encerra): 45
+Acima do limite! (1 seguida(s))
+Temperatura (999 encerra): 46
+Acima do limite! (2 seguida(s))
+Temperatura (999 encerra): 20
+Temperatura (999 encerra): 999
+
+=== RELATORIO FINAL ===
+Leituras validas: 6
+Media: 37.33
+Maior: 46.0
+Menor: 20.0
+Acima do limite: 4 (66.7%)

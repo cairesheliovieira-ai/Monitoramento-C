@@ -1,0 +1,18 @@
+Limite de temperatura (-50 a 150): 500
+Limite invalido!
+Limite de temperatura (-50 a 150): -80
+Limite invalido!
+Limite de temperatura (-50 a 150): 40
+Temperatura (999 encerra): 200
+Temperatura invalida!
+Temperatura (999 encerra): -100
+Temperatura invalida!
+Temperatura (999 encerra): 30
+Temperatura (999 encerra): 999
+
+=== RELATORIO FINAL ===
+Leituras validas: 1
+Media: 30.00
+Maior: 30.0
+Menor: 30.0
+Acima do limite: 0 (0.0%)

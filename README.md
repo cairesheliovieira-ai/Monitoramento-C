@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/32437986/README.md)
 # Desafio de Monitoramento de Temperatura
 
 ## 1. Identificação
